@@ -1,0 +1,5 @@
+step,detail
+duplicates,removed 4752 duplicate transaction_ids
+dropped_invalid,removed 11240 rows missing date/amount
+rows,"163,151 raw -> 147,159 clean"
+null_pct,3.46% mean null across columns

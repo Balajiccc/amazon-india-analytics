@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+sqlalchemy>=2.0
+streamlit>=1.30
+plotly>=5.18
+pyarrow>=14.0
